@@ -22,12 +22,8 @@ Na tela Home, o usuário poderá ver os seus dados cadastrados. Ou seja, precisa
 
 
 Regra de negócio 01: 
-Ao finalizar o cadastro, seria ótimo se já redirecionasse o usuário para a tela inicial. Para que ele possa ver os dados cadastrados.
+Ao finalizar o cadastro, seria ótimo se já redirecionasse o usuário para a tela inicial. Para que ele possa ver os dados cadastrados/inseridos.
 
-Regra de negócio 02: 
-O registro dos dados deverão ser salvos no Firebase utilizando o realtime database para salvar os dados como: E-mail, nome e telefone. 
-
-Já no Firebase Authentication realizar o cadastro utilizando e-mail e senha.
 
 
 # Regra de negócio 03 (apenas iOS)
@@ -36,9 +32,11 @@ Já no Firebase Authentication realizar o cadastro utilizando e-mail e senha.
 
 
 # Diferencial (não é obrigatório, mas seria ótimo se você fizesse)
-- Redirecionar o usuário para a tela Home ao abrir o app, caso ele já esteja logado.
 - Implementar uma validação de campos no ato de login e cadastro. Ex: Não permitir e-mails não válidos, não permitir senhas inferiores a 6 caracteres e validar se o telefone foi digitado corretamente
 - Implementar uma máscara no campo de telefone
+- Salvar os dados de cadastro no Firebase utilizando o realtime database para salvar os dados como: E-mail, nome e telefone. 
+- Salvar o email e senha no Firebase Authentication
+- Caso você opte por salvar os dados no Realtime Database e no Firebase Authentication, seria ótimo realizar a validação se o usuário já está logado e redirecioná-lo automaticamente para a Tela Home, quando o usuário abrir o app.
 
 
 Ao terminar o seu teste, basta criar um repositório em seu GitHub e nos encaminhar o link com o commit já realizado. Atente-se a deixar o repositório como público!

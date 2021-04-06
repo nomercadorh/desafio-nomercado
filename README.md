@@ -7,8 +7,11 @@
 # O que precisa ser feito? 
 
 Sistema de autenticação contendo 3 telas.
+
 Login
+
 Cadastro
+
 Tela Home
 
 Na tela de login, o usuário poderá realizar o login utilizando e-mail e senha. 

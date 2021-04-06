@@ -26,7 +26,7 @@ Ao finalizar o cadastro, seria ótimo se já redirecionasse o usuário para a te
 
 
 
-# Regra de negócio 02 (apenas iOS)
+## Regra de negócio 02 (apenas iOS)
 
   Utilizar CocoaPods para inserção da biblioteca do Firebase e quaisquer outras bibliotecas externas que vierem a utilizar. Fiquem à vontade!
 

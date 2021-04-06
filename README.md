@@ -15,7 +15,9 @@ Cadastro
 Tela Home
 
 Na tela de login, o usuário poderá realizar o login utilizando e-mail e senha. 
+
 Na tela de cadastro, o usuário deverá se cadastrar preenchendo estes campos: Nome, e-mail, telefone e senha.
+
 Na tela Home, o usuário poderá ver os seus dados cadastrados. Ou seja, precisaremos mostrar a ele o nome cadastrado, e-mail, telefone e senha.
 
 
@@ -27,6 +29,9 @@ O registro dos dados deverão ser salvos no Firebase utilizando o realtime datab
 
 Já no Firebase Authentication realizar o cadastro utilizando e-mail e senha.
 
+- Regra de negócio 03 (apenas iOS)
+  Utilizar CocoaPods para inserção da biblioteca do Firebase e quaisquer outras bibliotecas externas que vierem a utilizar. Fiquem à vontade!
+
 
 # Diferencial (não é obrigatório, mas seria ótimo se você fizesse)
 - Redirecionar o usuário já para a tela Home ao abrir o app, caso ele já esteja logado.
@@ -34,7 +39,6 @@ Já no Firebase Authentication realizar o cadastro utilizando e-mail e senha.
 - Implementar uma máscara no campo de telefone
 
 
-Boa sorte!
-
+Ao terminar o seu teste, basta criar um repositório em seu GitHub e nos encaminhar o link com o commit já realizado. Atente-se a deixar o repositório como público!
 
 

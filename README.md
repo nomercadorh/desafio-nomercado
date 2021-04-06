@@ -29,7 +29,9 @@ O registro dos dados deverão ser salvos no Firebase utilizando o realtime datab
 
 Já no Firebase Authentication realizar o cadastro utilizando e-mail e senha.
 
-- Regra de negócio 03 (apenas iOS)
+
+# Regra de negócio 03 (apenas iOS)
+
   Utilizar CocoaPods para inserção da biblioteca do Firebase e quaisquer outras bibliotecas externas que vierem a utilizar. Fiquem à vontade!
 
 

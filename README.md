@@ -36,11 +36,13 @@ Já no Firebase Authentication realizar o cadastro utilizando e-mail e senha.
 
 
 # Diferencial (não é obrigatório, mas seria ótimo se você fizesse)
-- Redirecionar o usuário já para a tela Home ao abrir o app, caso ele já esteja logado.
+- Redirecionar o usuário para a tela Home ao abrir o app, caso ele já esteja logado.
 - Implementar uma validação de campos no ato de login e cadastro. Ex: Não permitir e-mails não válidos, não permitir senhas inferiores a 6 caracteres e validar se o telefone foi digitado corretamente
 - Implementar uma máscara no campo de telefone
 
 
 Ao terminar o seu teste, basta criar um repositório em seu GitHub e nos encaminhar o link com o commit já realizado. Atente-se a deixar o repositório como público!
+
+Boa sorte!
 
 

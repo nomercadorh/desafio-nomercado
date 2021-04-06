@@ -18,7 +18,7 @@ Na tela de login, o usuário poderá realizar o login utilizando e-mail e senha.
 
 Na tela de cadastro, o usuário deverá se cadastrar preenchendo estes campos: Nome, e-mail, telefone e senha.
 
-Na tela Home, o usuário poderá ver os seus dados cadastrados. Ou seja, precisaremos mostrar a ele o nome cadastrado, e-mail, telefone e senha.
+Na tela Home, o usuário poderá ver os seus dados cadastrados/inseridos. Ou seja, precisaremos mostrar a ele o nome, e-mail, telefone e senha. Que foram utilizados na tela de cadastro.
 
 
 Regra de negócio 01: 
